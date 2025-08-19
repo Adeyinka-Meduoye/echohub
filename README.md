@@ -12,4 +12,11 @@ Theme Toggling: Switch between light and dark modes.
 Animations: Enjoy smooth fade, slide, and shimmer effects.
 Offline Caching: Access content without an internet connection.
 
+![App Screenshot]
+asset/images/capture.png
+asset/images/capture1.png
+
+![App Video]
+asset/videos/recorder.mp4
+
 Join the EchoHub community and start connecting today!
