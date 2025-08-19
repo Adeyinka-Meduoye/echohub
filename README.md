@@ -13,10 +13,10 @@ Animations: Enjoy smooth fade, slide, and shimmer effects.
 Offline Caching: Access content without an internet connection.
 
 ![App Screenshot]
-asset/images/capture.png
-asset/images/capture1.png
+(asset/images/capture.png)
+(asset/images/capture1.png)
 
 ![App Video]
-asset/videos/recorder.mp4
+(asset/videos/recorder.mp4)
 
 Join the EchoHub community and start connecting today!
