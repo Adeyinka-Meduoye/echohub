@@ -15,6 +15,7 @@ Offline Caching: Access content without an internet connection.
 ![App Screenshot](asset/images/capture.png)
 ![App Screenshot](asset/images/capture1.png)
 
-![Watch the App Video](https://youtube.com/shorts/VR2uT2ZITzQ?feature=share)
+[![Watch the app video](asset/images/capture.png)](https://youtube.com/shorts/VR2uT2ZITzQ?feature=share)
+
 
 Join the EchoHub community and start connecting today!
